@@ -1,0 +1,21 @@
+.logo{
+    width:2em ;
+    height: auto,
+}
+.heading{
+    margin-left: 0.9em;
+    font-size: medium;
+}
+.l-heading{
+    text-align: center;
+}
+.login-logo{
+    display:flex;
+    width:3em ;
+    height: auto;
+    margin-inline:auto;
+}
+.flex{
+     display: flex;
+     justify-content: center;  
+}

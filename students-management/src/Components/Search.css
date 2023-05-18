@@ -1,0 +1,25 @@
+*{
+ padding: 0;
+ margin: 0;
+ box-sizing: border-box;
+}
+.search-heading{
+    margin-left: 3em;
+    font-size: 2rem;
+    font-weight: 900;
+    margin-top: 2em;
+    text-decoration: underline;
+}
+.search-bar{
+    width: 80%;
+    height: 2.88em;
+    border-radius: 0.2em;
+    margin:5em 1.4em 0 0em;
+    font-weight: 800;
+    padding: 0.4em;
+
+   }
+   .search-bar:hover{
+    transform: scale(1.01);
+    box-shadow: 4px 4px 11px gray;
+   }
